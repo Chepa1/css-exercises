@@ -3,3 +3,13 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .oddnum.num3 {font-size: 24px;}
+
+#num2 {
+    color: #2b2bfe;
+    font-size: 36px;
+}
+#num4 {
+    background-color: #67f475;
+    font-size: 24px;
+    font-weight: bold;
+}

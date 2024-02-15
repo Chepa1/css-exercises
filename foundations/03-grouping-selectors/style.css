@@ -1,0 +1,11 @@
+.crew, .impostor {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.crew {
+    background-color: black;
+    color: white;
+}
+
+.impostor {background-color: yellow;}
